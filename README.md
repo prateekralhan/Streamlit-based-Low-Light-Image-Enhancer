@@ -3,6 +3,7 @@
 A simple streamlit based webapp to process and enhance low-light images using Keras MIRNet.
 
 ![1](https://user-images.githubusercontent.com/29462447/157028560-02fcb630-dff7-4775-8ea2-0557c5b8b1b4.gif)
+![2](https://user-images.githubusercontent.com/29462447/157029029-0ceca57d-1e69-4e06-8397-fee750db467d.gif)
 
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the dependencies.
