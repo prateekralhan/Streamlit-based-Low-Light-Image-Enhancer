@@ -27,11 +27,12 @@ streamlit run app.py --server.maxUploadSize=1028
 
 ## Results:
 | **Original Low-Light Image**  | **Enhanced Image**  |
-|---------------------|-----------------------|
-| ![pic1](uploads/1.jpg)  | ![pic1](downloads/segmented_1.jpg)  |
-| ![pic2](uploads/2.png)  | ![pic2](downloads/segmented_2.png)  |
-| ![pic3](uploads/3.bmp)  | ![pic3](downloads/segmented_3.bmp)  |
-| ![pic4](uploads/4.jpeg) | ![pic4](downloads/segmented_4.jpeg)  |
+|--------------------------|-------------------------------------|
+| ![pic1](uploads/55.png)  | ![pic1](downloads/enhanced_55.png)  |
+| ![pic2](uploads/79.png)  | ![pic2](downloads/enhanced_79.png)  |
+| ![pic3](uploads/547.png) | ![pic3](downloads/enhanced_547.png) |
+| ![pic4](uploads/665.png) | ![pic4](downloads/enhanced_665.png) |
+| ![pic4](uploads/778.png) | ![pic4](downloads/enhanced_778.png) |
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
